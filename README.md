@@ -1,4 +1,3 @@
 #Demo Project
-Description goes here.
-
+The Description Goes Here.
 
