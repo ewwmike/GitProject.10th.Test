@@ -1,4 +1,4 @@
 #Demo Project
-Description goes here...
+Description goes here.
 
 
